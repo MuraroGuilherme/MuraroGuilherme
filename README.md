@@ -1,4 +1,4 @@
-### Olá! Meu nome é Guilherme Muraro, tenho 18 anos e sou um curioso da programação.
+### Olá! Meu nome é Guilherme Muraro, tenho 18 anos e sou apaixonado por programação!
 
 - 🔭 Atualmente sou um estudante
 - 🌱 Estou cursando Análise e desenvolvimento de sistemas (ADS) na Universidade de Sorocaba (UNISO)
