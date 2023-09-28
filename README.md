@@ -6,6 +6,6 @@
 - 📫 Email de contato: parksom78@gmail.com
 - 💻 Linguagem que mais uso:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuraroGuilherme&show_icons=true&theme=transparent)
