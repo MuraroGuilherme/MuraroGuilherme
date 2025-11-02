@@ -1,4 +1,4 @@
-### Olá! Meu nome é Guilherme Muraro, tenho 19 anos e sou apaixonado por programação!
+### Olá! Meu nome é Guilherme Muraro, tenho 20 anos e sou apaixonado por programação!
 
 - ♣️ Profissional especializado em construir software de qualidade
 - 🎓 Disposto a aprender tudo que a área me proporcionar
